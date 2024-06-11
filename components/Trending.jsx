@@ -7,7 +7,7 @@ import {
 } from "react-native";
 import * as Animatable from "react-native-animatable";
 import { icons } from "../constants";
-import { ResizeMode, Video, resizeMode } from "expo-av";
+import { ResizeMode, Video } from "expo-av";
 
 const zoomIn = {
   0: {

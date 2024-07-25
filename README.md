@@ -1,6 +1,6 @@
 # Introduction
 
-This project was made for practing **`React-Native`** by [JavaScript Mastery](https://www.youtube.com/watch?v=ZBCUegTZF7M&list=PPSV).
+This project was made for practicing **`React-Native`** by [JavaScript Mastery](https://www.youtube.com/watch?v=ZBCUegTZF7M&list=PPSV).
 
 # How to use 
 

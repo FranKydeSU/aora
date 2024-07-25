@@ -1,4 +1,4 @@
-This for practice React-Native
+This project was made for practing React-Native
 
 # Welcome to your Expo app 👋
 

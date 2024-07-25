@@ -1,8 +1,15 @@
 # Introduction
 
-This project was made for practing React-Native
+This project was made for practing **`React-Native`** by [JavaScript Mastery](https://www.youtube.com/watch?v=ZBCUegTZF7M&list=PPSV).
 
-# Welcome to your Expo app 👋
+### Built With
+
+* [![React][React.js]][React-url]
+
+
+# How to use 
+
+### Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
